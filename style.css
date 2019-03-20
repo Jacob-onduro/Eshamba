@@ -1,0 +1,51 @@
+#welcome{
+	text-align: center;
+	position: relative;
+	top: 100px;
+	color: white;
+}
+.container-fluid{
+	background-image: url('img/bg1.png');
+	background-size: cover;
+	padding-bottom: 430px;
+}
+#welcome h1{
+	font-family: elephant;
+}
+.navbar ul li a{
+	color: white;
+}
+.navbar a{
+	color: white
+}
+#inside{
+	position: relative;
+	top: -50px;
+	text-align: center;
+}
+.navbar{
+	margin-top: 20px;
+	padding: 20px;
+}
+#shadow{
+	box-shadow: 4px 10px 15px grey;
+}
+body{
+	background-color: #cccccc;
+}
+#box .w3-card{
+	border-radius: 10px;
+}
+#tabs li a{
+	background-color: #cccccc;
+}
+#tabs li a:hover{
+	background-color: green !important;
+	color: white;
+}
+#footer ul li{
+	display: inline;
+	color: white;
+	border-right: 2px solid white;
+	padding-right: 10px;
+}
